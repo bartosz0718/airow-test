@@ -16,7 +16,7 @@ A TypeScript library for processing and consolidating data from professional ath
 
 ```bash
 # Clone the repository
-git clone <https://github.com/bartosz0718/airow-test.git>
+git clone https://github.com/bartosz0718/airow-test.git
 cd airow-test
 
 # Install dependencies
