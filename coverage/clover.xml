@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1727256961155" clover="3.2.0">
-  <project timestamp="1727256961156" name="All files">
+<coverage generated="1727264984851" clover="3.2.0">
+  <project timestamp="1727264984851" name="All files">
     <metrics statements="48" coveredstatements="46" conditionals="9" coveredconditionals="8" methods="15" coveredmethods="15" elements="72" coveredelements="69" complexity="0" loc="48" ncloc="48" packages="1" files="1" classes="1"/>
     <file name="index.ts" path="E:\Working\Bartosz\AIROW-test-task\src\index.ts">
       <metrics statements="48" coveredstatements="46" conditionals="9" coveredconditionals="8" methods="15" coveredmethods="15"/>
